@@ -7,9 +7,10 @@ It visualizes a vector field by spreading a bunch of particles that use their po
 Thus, producing a pretty visualizing of some function like those commented in the function ```vectorField(x, y)```.
 
 ## Ideas for new featrures
-[ ] Freezing the screen.
-[ ] Panning.
-[ ] Zooming.
-[ ] Allow for different effects when holding/dragging left mouse button(currently only spawning particles with higher "death time").
-[ ] Popup menu that allow manupulation of what is seen on screen. 
-[ ] Applying the function dynamically(A part of the popup menu).
+ - [ ] Add a button to randomize the vector field
+ - [ ] Freezing the screen.
+ - [ ] Panning.
+ - [ ] Zooming.
+ - [ ] Allow for different effects when holding/dragging left mouse button(currently only spawning particles with higher "death time").
+ - [ ] Popup menu that allow manupulation of what is seen on screen. 
+ - [ ] Applying the function dynamically(A part of the popup menu).
