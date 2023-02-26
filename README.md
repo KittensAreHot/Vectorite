@@ -12,5 +12,5 @@ This produces a pretty visualization of some function like those commented in th
  - [ ] Panning.
  - [ ] Zooming.
  - [ ] Allow for different effects when holding/dragging left mouse button(currently only spawning particles with higher "death time").
- - [ ] Popup menu that allow manupulation of what is seen on screen. 
+ - [ ] Popup menu that allow manipulation of what is seen on screen. 
  - [ ] Applying the function dynamically(A part of the popup menu).
